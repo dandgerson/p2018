@@ -89,6 +89,9 @@ gulp.task('build',['clean','img','sass','scripts'], function() {
 
 	var buildHtml = gulp.src('app/*.html')
 	.pipe(gulp.dest('dist'));
+
+	var buildHtaccess = gulp.src('app/.htaccess')
+	.pipe(gulp.dest('dist'));
 });
 
 gulp.task('deploy', function() {
@@ -105,8 +108,8 @@ gulp.task('deploy', function() {
 	'dist/**'
 	];
 	return gulp.src( globs, {base: 'dist/', buffer: false } )
-		.pipe( conn.newer( 'p2018.ru/' ) )
-		.pipe( conn.dest( 'p2018.ru/' ) ); 
+		.pipe( conn.newer( 'p2018.ru/docs/' ) )
+		.pipe( conn.dest( 'p2018.ru/docs/' ) ); 
 });
 
 gulp.task('default', ['watch']);

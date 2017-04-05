@@ -1,3 +1,19 @@
+html, body {
+	height: 100%;
+}
 body {
-	background-color: pink;
+
+display: flex;
 } 
+
+#bgContainer {
+	max-width: 100%;
+	height: 100%;
+	background-image: url('../img/SZ1.png');
+	background-repeat: no-repeat;
+	background-position: cover;
+}
+
+#logo {
+	justify-content: center;
+}

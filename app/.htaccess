@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^p2018\.ru$ [NC]
+RewriteRule ^(.*)$ http://p2018.ru/$1 [L,R=301]
