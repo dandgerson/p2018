@@ -1,0 +1,1188 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bootstrap",
+				"bootstrap.min.css\t(index.html)"
+			],
+			[
+				"te",
+				"tether"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"background-",
+				"background-repeat"
+			],
+			[
+				"lis",
+				"list\tlist-style-type"
+			],
+			[
+				"c-p",
+				"cur-p\tcursor: pointer;"
+			],
+			[
+				"cu",
+				"cur\tcursor: ${pointer};"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-unstyled\t(index.html)"
+			],
+			[
+				"bg",
+				"bg\tbackground: #${1:000};"
+			],
+			[
+				"feature-",
+				"feature-one\t(index.html)"
+			],
+			[
+				"feat",
+				"feature-content\t(index.html)"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"text-",
+				"text-rendering"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"p",
+				"pos-a\tposition: absolute;"
+			],
+			[
+				"con",
+				"content\t(index.html)"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"wit",
+				"width"
+			],
+			[
+				"dat",
+				"data-toggle"
+			],
+			[
+				"btn",
+				"btn-outline-success"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"scr",
+				"scroll\t(index.html)"
+			],
+			[
+				"ovwr",
+				"overflow-y"
+			],
+			[
+				"pr",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"bgr",
+				"border-image-repeat"
+			],
+			[
+				"bgrp",
+				"background-position"
+			],
+			[
+				"su",
+				"summary-wrapper\t(index.html)"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"form-",
+				"form-inline\t(index.html)"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"out",
+				"outputPanel\t(index.html)"
+			],
+			[
+				"to",
+				"toggleButton\t(index.html)"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"hi",
+				"hidden\t(index.html)"
+			],
+			[
+				"if",
+				"iframe\t(index.html)"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"th",
+				"this\t$(this)"
+			],
+			[
+				"remo",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"h",
+				"hover\t.hover()"
+			],
+			[
+				"border-to",
+				"border-top-left-radius"
+			],
+			[
+				"dr",
+				"droppable"
+			],
+			[
+				"error",
+				"errorMessage"
+			],
+			[
+				"fie",
+				"fieldsMissing"
+			],
+			[
+				"pa",
+				"Password"
+			],
+			[
+				"pas",
+				"passwordConfirm"
+			],
+			[
+				"er",
+				"errorMessage"
+			],
+			[
+				"is",
+				"isEmail"
+			],
+			[
+				"sub",
+				"submitButton"
+			],
+			[
+				"mb",
+				"margin-bottom"
+			],
+			[
+				"fl",
+				"fl-l\tfloat: left;"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"get",
+				"getRandomColor"
+			],
+			[
+				"M",
+				"Math.random"
+			],
+			[
+				"time",
+				"timeTaken"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"sh",
+				"shape"
+			],
+			[
+				"ro",
+				"roboto-bold\t(_fonts.sass)"
+			],
+			[
+				"pl",
+				"playfairdisplay-bold\t(_fonts.sass)"
+			],
+			[
+				"open-",
+				"opensans-bold\t(_fonts.sass)"
+			],
+			[
+				"open",
+				"opensans-regular.ttf"
+			],
+			[
+				"pla",
+				"playfairdisplay-regular"
+			],
+			[
+				"magnific-popup",
+				"jquery.magnific-popup.min.js"
+			],
+			[
+				"dist",
+				"dist/"
+			],
+			[
+				"mag",
+				"magnific-popup/"
+			],
+			[
+				"lo",
+				"logo_short.png\t(index.html)"
+			],
+			[
+				"d",
+				"d:b\tdisplay:block"
+			],
+			[
+				"icon",
+				"icon_home.png\t(index.html)"
+			],
+			[
+				"ca",
+				"carousel-inner\t(index.html)"
+			],
+			[
+				"car",
+				"car_item5.png\t(index.html)"
+			],
+			[
+				"sea",
+				"search-social-wrapper\t(index.html)"
+			],
+			[
+				"se",
+				"search-social\t(index.html)"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"o",
+				"ov\toverflow"
+			],
+			[
+				"ran",
+				"randomNumber"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"fo",
+				"footer-banner\t(index.html)"
+			],
+			[
+				"le",
+				"list-style-type\t(main.css)"
+			],
+			[
+				"foo",
+				"footer-item-wraper\t(index.html)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"re",
+				"ready\t$(document).ready"
+			],
+			[
+				"f",
+				"false\t(colorcoder.sublime-settings)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 10263,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 2654,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 34,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/css/main.css",
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 286.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"j",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 446.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"dir",
+			"cd",
+			"pwd",
+			"PyV8 -v"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/app/bower/bootstrap",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/app/bower/bootstrap/dist",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/app/bower/bootstrap/dist/css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/app/bower/tether/dist",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/app/bower/tether/dist/css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/app/css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/app/sass",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/dist"
+	],
+	"file_history":
+	[
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/app/sass/libs.scss",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/app/css/libs.css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/stupa/app/sass/libs.scss",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/package.json",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/gulpfile.js",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/app/index.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/stupa/bower.json",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/fpr76.ru/gulpfile.js",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/fpr76.ru/package.json",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/fpr76.ru/bower.json",
+		"/c/users/anderson/appdata/local/temp/gulpfile.js",
+		"/c/users/anderson/appdata/local/temp/index.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/.bowerrc",
+		"/c/users/anderson/appdata/local/temp/.bowerrc",
+		"/c/users/anderson/appdata/local/temp/.gitignore",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/.gitignore",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/p2018/README.md",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/css/showcase.css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/css/test.css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/alignself.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/index.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/test.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/node_modules/browser-sync-ui/lib/plugins/remote-debug/css/pesticide.min.css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/README.md",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/css/alignself.css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/vertical.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/order.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/mediaobjects.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/justify.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/holygrail.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/hexagon.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/growshrinkbasis.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/flexbasis.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/flexgrow.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/flexshrink.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/flexwrap.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/flowdirection.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/grids.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/alignment.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/html/aligncontent.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/css/main.css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/app/css/base.css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/.gitignore",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/TheCompleteFlexboxCourseByPeter/gulpfile.js",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/stupa/gulpfile.js",
+		"/c/users/anderson/appdata/local/temp/gulp.js browserSync",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/stupa/app/sass/main.scss",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/stupa/app/index.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/README.md",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/stupa/README.md",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/fpr76.ru/app/sass/libs.sass",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/fpr76.ru/app/index.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/startupLandingPage/app/index.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/startupLandingPage/app/sass/main.scss",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/startupLandingPage/app/css/main.css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/startupLandingPage/gulpfile.js",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/startupLandingPage/package.json",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/startupLandingPage/app/js/main.js",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/UseABootstrap4Template/app/css/main.css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/startupLandingPage/README.md",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/UseABootstrap4Template/README.md",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/UseABootstrap4Template/app/index.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/BasicWebSiteWithBootstrap4/README.md",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/BasicWebSiteWithBootstrap4/app/index.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/README.md",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/app/css/main.css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/app/js/main.js",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/app/index.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/.bowerrc",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/myPortfolio/.gitignore",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/BradHussey-Bootstrap4-Course/.gitignore",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/fpr76.ru/.bowerrc",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/JSGame/README.md",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/appLandingPage/README.md",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/work/5-bootstrap-4/appLandingPage/app/css/main.css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/work/5-bootstrap-4/appLandingPage/app/index.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/work/5-bootstrap-4/appLandingPage/app/js/main.js",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/work/5-bootstrap-4/appLandingPage/index.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/work/5-bootstrap-4/appLandingPage/.bowerrc",
+		"/C/Users/Anderson/Dropbox (WebEducation)/projects/fpr76.ru/.gitignore",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/work/5-bootstrap-4/appLandingPage/.gitignore",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/CodePlayer/README.md",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/LearnJQuery/README.md",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/work/4-jquery/CodePlayer/index.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/work/4-jquery/CodePlayer/main.css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/work/4-jquery/CodePlayer/main.js",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/work/4-jquery/4.13.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/work/4-jquery/form-validation.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/certificates/JS.PNG",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/app/index.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/app/sass/main.sass",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/udemy/the-complete-web-developer-course-2/gulpfile.js",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/education/udemy/the-complete-web-developer-course-2/work/3-javascript/JSGame/JSGame.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/education/udemy/the-complete-web-developer-course-2/work/3-javascript/JSGame/main.js",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/education/udemy/the-complete-web-developer-course-2/work/3-javascript/JSGame/style.css",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/education/udemy/the-complete-web-developer-course-2/work/3-javascript/JSGame.html",
+		"/C/Users/Anderson/Dropbox (WebEducation)/anderson/education/udemy/the-complete-web-developer-course-2/work/3-javascript/JSGame",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/fpr76.sublime-project",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/app/index.html",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/app/sass/main.sass",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/app/sass/_fonts.sass",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Anderson/AppData/Local/Temp/1-main.css",
+		"/C/Users/Anderson/AppData/Local/Temp/2-main.css",
+		"/C/Users/Anderson/Dropbox/projects/fonts/font-awesome-4.7.0/font-awesome-4.7.0/scritpt sdn",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/app/sass/libs.sass",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/app/sass/_header.sass",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/app/css/main.css",
+		"/C/Users/Anderson/Dropbox/anderson/tools/templates/optimizedhtml-start-template-master/optimizedhtml-start-template-master/app/sass/_fonts.sass",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/gulpfile.js",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/app/sass/_navbar-custom.sass",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/dist/index.html",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/app/sass/_footer.sass",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/app/sass/_media.sass",
+		"/C/Users/Anderson/Dropbox/anderson/tools/templates/optimizedhtml-start-template-master/optimizedhtml-start-template-master/gulpfile.js",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/package.json",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/app/html/contacts.html",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/app/sass/_minor.sass",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/app/sass/_content.sass",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/app/sass/_var.sass",
+		"/C/Users/Anderson/Dropbox/anderson/tools/templates/optimizedhtml-start-template-master/optimizedhtml-start-template-master/package.json",
+		"/C/Users/Anderson/Dropbox/anderson/tools/templates/start_html-master/start_html-master/_optimized_gulp_sass/gulpfile.js",
+		"/C/Users/Anderson/Dropbox/anderson/tools/templates/start_html-master/start_html-master/_optimized_gulp_sass/package.json",
+		"/C/Users/Anderson/Dropbox/anderson/tools/templates/start_html-master/start_html-master/_optimized_gulp_sass/sass/_media.sass",
+		"/C/Users/Anderson/Dropbox/projects/fpr76.ru/bower.json",
+		"/C/Users/Anderson/Dropbox/anderson/tools/templates/optimizedhtml-start-template-master/optimizedhtml-start-template-master/.bowerrc",
+		"/C/Users/Anderson/Dropbox/anderson/tools/templates/optimizedhtml-start-template-master/optimizedhtml-start-template-master/.gitignore",
+		"/C/Users/Anderson/Dropbox/anderson/tools/templates/optimizedhtml-start-template-master/optimizedhtml-start-template-master/app/index.html"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"blood",
+			">\n",
+			"=\"#\"></",
+			"4",
+			"%;\n",
+			"4",
+			"1px",
+			"106px",
+			"Войти",
+			"DDDDDD",
+			"dist"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Palenight.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2620,
+								2620
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Palenight.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1848.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/sass/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Palenight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Palenight.tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "p2018.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

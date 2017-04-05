@@ -1,0 +1,21 @@
+{
+  "name": "p2018",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "dandgerson <dandgerson@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
