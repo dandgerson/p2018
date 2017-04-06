@@ -1,21 +1,84 @@
-html, body {
-  height: 100%; }
+* {
+  padding: 0;
+  margin: 0; }
 
 body {
+  height: 100%;
+  background-image: url("../img/bg.jpg");
+  background-position: center center;
+  background-repeat: repeat-y;
+  background-size: cover; }
+
+#stage {
+  width: 100%;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: flex; }
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+  text-align: center; }
 
-#bgContainer {
-  max-width: 100%;
-  height: 100%;
-  background-image: url("../img/SZ1.png");
-  background-repeat: no-repeat;
-  background-position: cover; }
-
-#logo {
+#content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center; }
+
+#logo {
+  margin-bottom: 2rem;
+  padding-top: 6rem; }
+  #logo img {
+    max-width: 100%; }
+
+#timer {
+  margin-top: 1rem;
+  margin-bottom: 1rem; }
+
+#social {
+  margin-top: 0.2rem; }
+  #social ul {
+    list-style-type: none; }
+    #social ul li {
+      display: inline-block; }
+      #social ul li a {
+        font-size: 1.5rem;
+        color: white;
+        display: block;
+        margin: 0 2px;
+        text-decoration: none; }
+
+#nsm {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  -webkit-align-self: flex-end;
+      -ms-flex-item-align: end;
+          align-self: flex-end;
+  top: 83%;
+  left: 85%; }
