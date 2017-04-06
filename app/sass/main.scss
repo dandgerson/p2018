@@ -4,6 +4,8 @@
 }
 
 body {
+	font-family: 'Comfortaa', cursive;
+	color: #D2D5D9;
 	height: 100%;
 	// border: 3px solid green;
 	background-image: url('../img/bg.jpg');
@@ -19,7 +21,7 @@ body {
 	width: 100%;
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
+	justify-content: flex-end;
 	align-items: stretch;
 	// background-image: url('../img/bg.jpg');
 	// background-position: center center;
@@ -59,12 +61,16 @@ body {
 	list-style-type: none;
 		li {
 			display: inline-block;
-			a {
-				font-size: 1.5rem;
-				color: white;
-				display: block;
+			a {	
+				font-size: 2rem;
+				color: #D2D5D9;
+				display: inline-block;
 				margin: 0 2px;
 				text-decoration: none;
+				transition: 0.7s;
+			}
+			a:hover{
+				color: #942CB1;
 			}
 		}
 	}
