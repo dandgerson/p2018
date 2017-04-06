@@ -73,6 +73,22 @@ body {
     #social ul li a:hover {
       color: #942CB1; }
 
+#vk-wr {
+  background-color: #D2D5D9;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  height: 28px;
+  width: 28px;
+  -webkit-transition: 0.7s;
+  transition: 0.7s; }
+
+#vk-wr:hover {
+  background-color: #942CB1; }
+
+#vk {
+  font-size: 1.5rem !important;
+  color: black !important; }
+
 #nsm {
   -webkit-box-flex: 1;
   -webkit-flex: 1 1 auto;
