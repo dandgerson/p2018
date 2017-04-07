@@ -9,27 +9,6 @@ body {
   background: url("../img/bg.jpg") center/cover;
   background-repeat: repeat-y; }
 
-#stage {
-  width: 100%;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-pack: end;
-  -webkit-justify-content: flex-end;
-      -ms-flex-pack: end;
-          justify-content: flex-end;
-  -webkit-box-align: stretch;
-  -webkit-align-items: stretch;
-      -ms-flex-align: stretch;
-          align-items: stretch;
-  text-align: center; }
-
 #content {
   display: -webkit-box;
   display: -webkit-flex;
@@ -47,7 +26,8 @@ body {
   -webkit-box-pack: center;
   -webkit-justify-content: center;
       -ms-flex-pack: center;
-          justify-content: center; }
+          justify-content: center;
+  text-align: center; }
 
 .cont-item {
   margin: 2.5rem 0; }
@@ -81,9 +61,8 @@ body {
   width: 28px;
   -webkit-transition: 0.7s;
   transition: 0.7s; }
-
-#vk-wr:hover {
-  background-color: #942CB1; }
+  #vk-wr:hover {
+    background-color: #942CB1; }
 
 #vk {
   font-size: 1.5rem !important;

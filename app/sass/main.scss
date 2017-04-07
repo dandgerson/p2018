@@ -11,20 +11,12 @@ body {
 	background-repeat: repeat-y;
 }
 
-#stage {
-	width: 100%;
-	display: flex;
-	flex-direction: column;
-	justify-content: flex-end;
-	align-items: stretch;
-	text-align: center;
-}
-
 #content {
 	display: flex;
 	flex: 1 1 auto;
 	flex-direction: column;
 	justify-content: center;
+	text-align: center;
 }
 
 .cont-item {
@@ -36,8 +28,6 @@ body {
 }
 
 #logo {
-  
-
 	img {
 		max-width: 100%;
 		}
@@ -63,16 +53,18 @@ body {
 		}
 	}
 }
+
 #vk-wr{
 	background-color: #D2D5D9;
 	border-radius: 5px;
 	height: 28px;
 	width: 28px;
 	transition: 0.7s;
+	&:hover {
+		background-color: #942CB1;
+	}
 }
-#vk-wr:hover{
-	background-color: #942CB1;
-}
+
 #vk {	
 	font-size: 1.5rem !important;
 	color: black !important;
