@@ -1,0 +1,82 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+body {
+  font-family: 'Comfortaa', cursive;
+  color: #D2D5D9;
+  height: 100%;
+  background: url("../img/SZ1.png") center/cover;
+  background-repeat: repeat-y; }
+
+#content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center; }
+
+.cont-item {
+  margin: 2.5rem 0; }
+
+.item-label {
+  margin-bottom: 1.5rem; }
+
+#logo img {
+  max-width: 100%; }
+
+#social ul {
+  list-style-type: none; }
+  #social ul li {
+    display: inline-block; }
+    #social ul li a {
+      display: inline-block;
+      background-color: #D2D5D9;
+      width: 2rem;
+      height: 2rem;
+      -webkit-border-radius: 5px;
+              border-radius: 5px;
+      margin: 0 2px;
+      text-decoration: none;
+      -webkit-transition: 0.7s;
+      transition: 0.7s; }
+    #social ul li a:hover {
+      background-color: #942CB1; }
+
+.fb {
+  background-image: url("../img/icons/1491585370_facebook_fb_social_social_media.svg"); }
+
+.vk {
+  background-image: url("../img/icons/1491585372_vkontakte.svg"); }
+
+.tw {
+  background-image: url("../img/icons/Twitter_Logo_Blue.svg"); }
+
+.in {
+  background-image: url("../img/icons/1491585383_instagram.svg"); }
+
+.yt {
+  background-image: url("../img/icons/1491585385_youtube_you_tube_google.svg"); }
+
+#nsm {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  -webkit-align-self: flex-end;
+      -ms-flex-item-align: end;
+          align-self: flex-end;
+  padding: 30px; }
