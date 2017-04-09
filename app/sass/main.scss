@@ -27,10 +27,14 @@ body {
 	margin-bottom: 1.5rem;
 }
 
+#timer {
+
+}
+
 #logo {
 	padding: 3rem 0 2rem 0;
 	img {
-		max-width: 20%;
+		max-width: 300px;
 	}
 }
 
@@ -77,8 +81,8 @@ body {
 
 #nsm {
 	position: absolute;
-	left: 94%;
-	top: -40%;
+	right: 25px;
+	bottom: 25px;
 }
 
 .flex-container {
