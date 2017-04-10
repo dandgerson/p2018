@@ -97,9 +97,9 @@ gulp.task('build',['clean','img','sass','scripts'], function() {
 gulp.task('deploy', function() {
 
 	var conn = ftp.create({
-		host:      'ftp.p2018.nichost.ru',
-		user:      'p2018_webdev',
-		password:  'P9J_BLdT',
+		host:      'f9056303.beget.tech',
+		user:      'f9056303_anderson',
+		password:  'ToadyOne88',
 		parallel:  10,
 		log: gutil.log
 	});
@@ -108,8 +108,8 @@ gulp.task('deploy', function() {
 	'dist/**'
 	];
 	return gulp.src( globs, {base: 'dist/', buffer: false } )
-		.pipe( conn.newer( 'p2018.ru/docs/' ) )
-		.pipe( conn.dest( 'p2018.ru/docs/' ) ); 
+		.pipe( conn.newer( './' ) )
+		.pipe( conn.dest( './' ) ); 
 });
 
 gulp.task('default', ['watch']);

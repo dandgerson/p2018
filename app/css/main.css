@@ -24,9 +24,10 @@ body {
   margin-bottom: 1.5rem; }
 
 #logo {
-  padding: 3rem 0 2rem 0; }
-  #logo img {
-    max-width: 330px; }
+  margin: 0 auto;
+  max-width: 330px;
+  height: 330px;
+  background: url("../img/Logo 5000.png") center/cover; }
 
 #social ul {
   list-style-type: none; }
@@ -103,10 +104,10 @@ body {
   cursor: pointer; }
 
 @media screen and (max-width: 575px) {
+  body {
+    padding-top: 1px; }
   #logo {
-    padding: 1rem 0; }
-    #logo img {
-      max-width: 250px; }
+    background: url("../img/Logo 5000.png") center/cover; }
   .cont-item {
     margin: 0.3rem auto; }
   .item-label {
@@ -115,23 +116,31 @@ body {
     width: 80px; } }
 
 @media screen and (max-width: 767px) {
+  body {
+    padding-top: 1px; }
   #logo {
-    padding: 0 0; }
-    #logo img {
-      max-width: 270px; } }
+    background: url("../img/Logo 5000.png") center/cover; } }
 
 @media (max-width: 991px) {
+  body {
+    padding-top: 1px; }
   #logo {
-    padding: 2rem 0 1rem 0; }
-    #logo img {
-      max-width: 300px; }
+    background: url("../img/Logo 5000.png") center/cover; }
   .cont-item {
     margin: 1.5rem auto; } }
 
-@media screen and (min-width: 1199px) {
+@media (max-width: 1200px) {
+  body {
+    padding-top: 1px; }
   #logo {
-    padding: 3rem 0 2rem 0; }
-    #logo img {
-      max-width: 400px; }
+    background: url("../img/Logo 5000.png") center/cover; }
+  .cont-item {
+    margin: 1.5rem auto; } }
+
+@media screen and (min-width: 1440px) {
+  body {
+    padding-top: 100px; }
+  #logo {
+    background: url("../img/Logo 5000_00149.png") center/cover; }
   .item-label {
     font-size: 1.2rem; } }

@@ -28,11 +28,18 @@ body {
 }
 
 #logo {
-	padding: 3rem 0 2rem 0;
-	img {
-		max-width: 330px;
-	}
+	margin: 0 auto;
+	max-width: 330px;
+	height: 330px;
+	background: url("../img/Logo 5000.png") center/cover;
 }
+
+// #logo {
+// 	padding: 3rem 0 2rem 0;
+// 	img {
+// 		max-width: 330px;
+// 	}
+// }
 
 
 #social {

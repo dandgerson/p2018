@@ -1,9 +1,9 @@
 @media screen and (max-width: 575px) {
+	body {
+		padding-top: 1px;
+	}
 	#logo {
-		padding: 1rem 0;
-		img {
-			max-width: 250px;
-		}
+		background: url("../img/Logo 5000.png") center/cover;
 	}
 	.cont-item {
 	margin: 0.3rem auto;
@@ -23,35 +23,43 @@
 }
 
 @media screen and (max-width: 767px) {
+	body {
+		padding-top: 1px;
+	}
 	#logo {
-		padding: 0 0;
-		img {
-			max-width: 270px;
-		}
+		background: url("../img/Logo 5000.png") center/cover;
 	}
 	
 }
-@media (max-width: 991px) {
-	#logo {
-		padding: 2rem 0 1rem 0;
-		img {
-			max-width: 300px;
-		}
 
+@media (max-width: 991px) {
+	body {
+		padding-top: 1px;
+	}
+	#logo {
+		background: url("../img/Logo 5000.png") center/cover;
+	}
+	.cont-item {
+	margin: 1.5rem auto;
+	}
+
+}@media (max-width: 1200px) {
+	body {
+		padding-top: 1px;
+	}
+	#logo {
+		background: url("../img/Logo 5000.png") center/cover;
 	}
 	.cont-item {
 	margin: 1.5rem auto;
 	}
 }
-@media screen and (min-width: 1199px) {
-// 	body {
-// 	background: url('../img/fon_00000.png') repeat-y center/ cover;
-// }
+@media screen and (min-width: 1440px) {
+	body {
+		padding-top: 100px;
+}
 	#logo {
-		padding: 3rem 0 2rem 0;
-		img {
-			max-width: 400px;
-		}
+				background: url("../img/Logo 5000_00149.png") center/cover;
 	}
 	.item-label{
 		font-size: 1.2rem
