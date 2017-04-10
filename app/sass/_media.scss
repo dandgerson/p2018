@@ -1,0 +1,59 @@
+@media screen and (max-width: 575px) {
+	#logo {
+		padding: 1rem 0;
+		img {
+			max-width: 250px;
+		}
+	}
+	.cont-item {
+	margin: 0.3rem auto;
+	}
+	.item-label{
+		font-size: 0.8rem
+	}
+	#nsm {
+
+		img{
+			width: 80px;
+
+
+		}
+	}
+	
+}
+
+@media screen and (max-width: 767px) {
+	#logo {
+		padding: 0 0;
+		img {
+			max-width: 270px;
+		}
+	}
+	
+}
+@media (max-width: 991px) {
+	#logo {
+		padding: 2rem 0 1rem 0;
+		img {
+			max-width: 300px;
+		}
+
+	}
+	.cont-item {
+	margin: 1.5rem auto;
+	}
+}
+@media screen and (min-width: 1199px) {
+// 	body {
+// 	background: url('../img/fon_00000.png') repeat-y center/ cover;
+// }
+	#logo {
+		padding: 3rem 0 2rem 0;
+		img {
+			max-width: 400px;
+		}
+	}
+	.item-label{
+		font-size: 1.2rem
+	}
+}

@@ -95,6 +95,10 @@ body {
   width: 25px;
   height: 25px; }
 
+#btnNotify:hover {
+  background-color: #942CB1 !important;
+  cursor: pointer; }
+
 @media screen and (max-width: 575px) {
   #logo {
     padding: 1rem 0; }
@@ -122,8 +126,6 @@ body {
     margin: 1.5rem auto; } }
 
 @media screen and (min-width: 1199px) {
-  body {
-    background: url("../img/fon_00000.png") repeat-y center/cover; }
   #logo {
     padding: 3rem 0 2rem 0; }
     #logo img {

@@ -1,11 +1,7 @@
-* {
-	padding: 0;
-	margin: 0;
-}
-html {
-	height: 100%;
-	width: 100%;
-}
+@import "variables";
+@import "settings";
+
+
 body {
 	font-family: 'Comfortaa', cursive;
 	color: #D2D5D9;
@@ -109,80 +105,12 @@ body {
 	width: 25px;
 	height: 25px;
 }
-@media screen and (max-width: 575px) {
-	#logo {
-		padding: 1rem 0;
-		img {
-			max-width: 250px;
-		}
-	}
-	.cont-item {
-	margin: 0.3rem auto;
-	}
-	.item-label{
-		font-size: 0.8rem
-	}
-	#nsm {
 
-		img{
-			width: 80px;
-
-
-		}
-	}
-	
-}
-@media screen and (max-width: 767px) {
-	#logo {
-		padding: 0 0;
-		img {
-			max-width: 270px;
-		}
-	}
-	
-}
-@media (max-width: 991px) {
-	#logo {
-		padding: 2rem 0 1rem 0;
-		img {
-			max-width: 300px;
-		}
-
-	}
-	.cont-item {
-	margin: 1.5rem auto;
-	}
-}
-@media screen and (min-width: 1199px) {
-	body {
-	background: url('../img/fon_00000.png') repeat-y center/ cover;
-}
-	#logo {
-		padding: 3rem 0 2rem 0;
-		img {
-			max-width: 400px;
-		}
-	}
-	.item-label{
-		font-size: 1.2rem
-	}
-}
-// Extra small devices (portrait phones, less than 576px)
-@media (max-width: 575px) {
-
+#btnNotify:hover {
+	// color: #942CB1!important;
+	background-color: #942CB1!important;
+	// border-color: #942CB1!important;
+	cursor: pointer;
 }
 
-// Small devices (landscape phones, less than 768px)
-@media (max-width: 767px) {
-
-}
-
-// Medium devices (tablets, less than 992px)
-@media (max-width: 991px) {
-
-}
-
-// Large devices (desktops, less than 1200px)
-@media (min-width: 1199px) {
-
-}
+@import "media";

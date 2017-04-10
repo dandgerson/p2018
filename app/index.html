@@ -24,6 +24,21 @@
 	<!-- Custom CSS -->
 	<link rel="stylesheet" href="css/main.css">
 	<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+	<!-- mail Ajax -->
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("#form").submit(function() { //устанавливаем событие отправки для формы с id=form
+			var form_data = $(this).serialize(); //собераем все данные из формы
+			$.ajax({
+				type: "POST", //Метод отправки
+				url: "notify.php", //путь до php фаила отправителя
+				data: form_data,
+				success: function() {	//код в этом блоке выполняется при успешной отправке сообщения
+					alert("Ваше сообщение отпрвлено!");
+				});
+			});
+		});    
+	</script>
 </head>
 
 <body>
@@ -56,31 +71,61 @@
 							<li><a href="https://www.instagram.com/p2018ru/" class="in"></a></li>
 							<li><a href="#" class="yt"></a></li>
 						</ul>
+
+						<button id="btnNotify" type="button" class="btn btn-outline-secondary" data-toggle="modal" data-target="#notifyModal">Уведомить о запуске</button>
+
+						<!-- Modal -->
+						<div class="modal fade" id="notifyModal" tabindex="-1" role="dialog" aria-labelledby="notifySignUp" aria-hidden="true">
+							<div class="modal-dialog" role="document">
+								<div class="modal-content">
+									<div class="modal-header">
+										<h5 class="modal-title" id="notifySignUpLabel">Уведомить о запуске</h5>
+										<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+											<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<form action="notify.php" method="post" name=" notify">
+											<div class="form-group">
+												<label for="notifyInputEmail1">Email адрес:</label>
+												<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="введите email" required>
+												<small id="emailHelp" class="form-text text-muted">Мы никогда и нигде не опубликуем Ваш email.</small>
+											</div>
+										</form>
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-secondary" data-dismiss="modal">Закрыть</button>
+										<button type="button" class="btn btn-primary">Уведомить о запуске</button>
+									</div>
+								</div>
+							</div>
+						</div>
+
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-		<div class="flex-item bottom-item">
+	<div class="flex-item bottom-item">
 
-			<div class="container-fluid">
-				<div class="row">
+		<div class="container-fluid">
+			<div class="row">
 				<div class="col-8">
 					<div class="copyright">
 						<p>Всё права защищены. При использовании материалов ссылка на сайт обязательна. Российская Федерация. 2017 <img src="img/NSM-logo.png" class="logo-nsm"></p>
 					</div>
 				</div>
-					
-						<div id="nsm">
-							<img src="img/NSM - Logo_W.png" alt="NSM">
-						
-					</div>
+
+				<div id="nsm">
+					<img src="img/NSM - Logo_W.png" alt="NSM">
+
 				</div>
 			</div>
 		</div>
 	</div>
-	<!-- jQuery first, then Tether, then Bootstrap 4 JS. -->
-	<script src="js/libs.min.js"></script>
+</div>
+<!-- jQuery first, then Tether, then Bootstrap 4 JS. -->
+<script src="js/libs.min.js"></script>
 
 <!-- <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
