@@ -24,21 +24,7 @@
 	<!-- Custom CSS -->
 	<link rel="stylesheet" href="css/main.css">
 	<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
-	<!-- mail Ajax -->
-	<script type="text/javascript">
-		$(document).ready(function(){
-			$("#form").submit(function() { //устанавливаем событие отправки для формы с id=form
-			var form_data = $(this).serialize(); //собераем все данные из формы
-			$.ajax({
-				type: "POST", //Метод отправки
-				url: "notify.php", //путь до php фаила отправителя
-				data: form_data,
-				success: function() {	//код в этом блоке выполняется при успешной отправке сообщения
-					alert("Ваше сообщение отпрвлено!");
-				});
-			});
-		});    
-	</script>
+	
 </head>
 
 <body>
@@ -75,28 +61,28 @@
 
 						<button id="btnNotify" type="button" class="btn btn-outline-secondary" data-toggle="modal" data-target="#notifyModal">Уведомить о запуске</button>
 
-						<!-- Modal -->
-						<div class="modal fade" id="notifyModal" tabindex="-1" role="dialog" aria-labelledby="notifySignUp" aria-hidden="true">
-							<div class="modal-dialog" role="document">
-								<div class="modal-content">
-									<div class="modal-header">
-										<h5 class="modal-title" id="notifySignUpLabel">Уведомить о запуске</h5>
-										<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-											<span aria-hidden="true">&times;</span>
-										</button>
-									</div>
-									<div class="modal-body">
-										<form action="notify.php" method="post" name=" notify">
-											<div class="form-group">
-												<label for="notifyInputEmail1">Email адрес:</label>
-												<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="введите email" required>
-												<small id="emailHelp" class="form-text text-muted">Мы никогда и нигде не опубликуем Ваш email.</small>
-											</div>
-										</form>
-									</div>
+<!-- Modal -->
+<div class="modal fade" id="notifyModal" tabindex="-1" role="dialog" aria-labelledby="notifySignUp" aria-hidden="true">
+<div class="modal-dialog" role="document">
+	<div class="modal-content">
+		<div class="modal-header">
+			<h5 class="modal-title" id="notifySignUpLabel">Уведомить о запуске</h5>
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				<span aria-hidden="true">&times;</span>
+			</button>
+		</div>
+		<div class="modal-body">
+			<form id="form" action="notify.php" method="post" name=" notify">
+				<div class="form-group">
+					<label for="notifyInputEmail1">Email адрес:</label>
+					<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="введите email" required>
+					<small id="emailHelp" class="form-text text-muted">Мы никогда и нигде не опубликуем Ваш email.</small>
+				</div>
+			</form>
+		</div>
 									<div class="modal-footer">
 										<button type="button" class="btn btn-secondary" data-dismiss="modal">Закрыть</button>
-										<button type="button" class="btn btn-primary">Уведомить о запуске</button>
+										<button type="submit" form="form" class="btn btn-primary" id="signUp">Подписаться</button>
 									</div>
 								</div>
 							</div>

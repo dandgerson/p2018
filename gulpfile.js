@@ -14,7 +14,7 @@ var gulp = require('gulp'),
 		ftp = require( 'vinyl-ftp' );
 
 gulp.task('sass', function()  {
-	return gulp.src('app/sass/**/*.scss')
+	return gulp.src(['app/sass/**/*.sass', 'app/sass/**/*.scss'])
 	.pipe(sass().on('error', sass.logError))
 	.pipe(autoprefixer(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], {cascade: true}))
 	.pipe(gulp.dest('app/css'))
@@ -68,7 +68,7 @@ gulp.task('img',function(){
 })
 
 gulp.task('watch',['browser-sync','css-libs','scripts'],function(){
-	gulp.watch('app/sass/**/*.scss',['sass']);
+	gulp.watch(['app/sass/**/*.sass', 'app/sass/**/*.scss'], ['sass']);
 	gulp.watch('app/**/*.html',browserSync.reload);
 	gulp.watch('app/js/**/*.js', browserSync.reload);
 });
@@ -99,7 +99,7 @@ gulp.task('deploy', function() {
 	var conn = ftp.create({
 		host:      'f9056303.beget.tech',
 		user:      'f9056303_anderson',
-		password:  'ToadyOne88',
+		password:  'password',
 		parallel:  10,
 		log: gutil.log
 	});
