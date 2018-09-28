@@ -5,7 +5,7 @@
 ## Goals and Achievements
 
 - Main Tasks
-  - Build a one page stup for website by future clients development
+  - Build a one page stub for website by future clients development
   - Get practies and gain skills with HTML / CSS / Sass (SCSS), Bootstrap 4 framework, npm, bower and gulp
 - Directions of work
   - HTML and CSS
