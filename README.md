@@ -1,4 +1,4 @@
-# Stup for future client website
+# Stub for future client website
 
 ![alt text](/scrn.png)
 
